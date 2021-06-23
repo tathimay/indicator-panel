@@ -11,7 +11,7 @@ div.row{
     padding: 6px;
 }
 .legendmap{
-    width: -webkit-fill-available;
+    width: 100%;
     padding-top: 10px;
     height: 40px;
 }
@@ -92,7 +92,7 @@ used by legend inside mapa (disabled)
 
 /** modal window */
 iframe{
-    width: -webkit-fill-available;
+    width: 100%;
     border: none;
 }
 .modal-dialog{
